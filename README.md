@@ -15,6 +15,11 @@ Use it for whatever you want, just make sure to credit me.
 ____
 https://www.youtube.com/watch?v=KZNTpwYzW0s
 
+![Menu](https://i.imgur.com/jSHJGwn.png)
+
+![Amount of users](https://i.imgur.com/MTb30xB.png)
+![Some of the people who said thanks for it](https://i.imgur.com/GNPL0hp.png)
+
 #Credits
 ____
 
