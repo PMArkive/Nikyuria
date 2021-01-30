@@ -81,21 +81,7 @@ int DllInit()
 	while (!GetModuleHandleA("engine.dll") || !GetModuleHandleA("client.dll"))
 		Sleep(100);
 
-	authhash = auth.hash(auth.get());
-	char banana[10];
-	sprintf(banana, "%i", authhash);
-//	MessageBoxA(NULL, banana, "k", MB_OK);
-
-	if (authhash == 1414886425)
-	{
-		Nikyuria::Init();
-		return 0;
-	}
-
-	_sleep(10000);
-
-	auth.authfuck();
-
+	Nikyuria::Init();
 	return 0;
 }
 
