@@ -1,6 +1,6 @@
 # Nikyuria
 ____
-A cheat I created in ~2013~2014 ( or well not really last, made one more after this but didn't finish that one ).
+A cheat I created in 2013~2014.
 I released it due to the customer breaking the non-disclosure, non-share, non-sale agreement & sharing information to a competitor. This lead me to release the code publically for everyone, so they could learn from it.
 
 It has some "new" cheat features that the scene might appreciate ( aka will probably be c+pd into every generic cheat ), but since it's already happening with 1 cheat,
