@@ -1,7 +1,7 @@
 # Nikyuria
 ____
-The last cheat I ever created ( or well not really last, made one more after this but didn't finish that one ).
-Releasing it because after selling one copy to someone, the person got it leaked to script kiddie. The script kiddie ended up copy pasting stuff and claiming credit for some of my code, so I decided to make it available for everyone.
+A cheat I created in ~2013~2014 ( or well not really last, made one more after this but didn't finish that one ).
+I released it due to the customer breaking the non-disclosure, non-share, non-sale agreement & sharing information to a competitor. This lead me to release the code publically for everyone, so they could learn from it.
 
 It has some "new" cheat features that the scene might appreciate ( aka will probably be c+pd into every generic cheat ), but since it's already happening with 1 cheat,
 it doesn't really matter. (update as of 2020: my prediction was right, they're now c+pd into every generic cheat )
@@ -28,7 +28,3 @@ ____
 - Matt for killing my fishes with too much fodder
 - Nub for purchasing this at a time during which I didn't have too much money
 - Kittix for making me release this
-
-# Additional Information
-____
-There used to be a authentication in here which did some mean things. Make sure to look at the auth files and either disable it or change it to fit your own HWID code.
