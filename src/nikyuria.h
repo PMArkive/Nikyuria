@@ -8,7 +8,6 @@
 #include "menu.h"
 #include "vmthook.h"
 #include "hooks.h"
-#include "nigauth.h"
 
 namespace Nikyuria
 {
